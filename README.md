@@ -17,8 +17,8 @@ Aplikasi berbasis web untuk mengelola jadwal shift, pengajuan cuti, dan manajeme
 ## 📖 Panduan Penggunaan (User Guide)
 
 ### 1. Bagi Admin
-* **Menambahkan Karyawan**: Buka menu **Management**, pilih karyawan, tentukan tanggal dan jenis shift, lalu simpan.
-* **Mengatur Jadwal**: Buka menu **Management**, pilih karyawan, tentukan tanggal dan jenis shift, lalu simpan.
+* **Menambahkan Karyawan**: Buka menu **Management**, pilih User, isi nama, email, dan password, lalu simpan.
+* **Mengatur Jadwal**: Buka menu **Management**, pilih Shift, tentukan karyawan, tanggal, dan jenis shift, lalu simpan.
 * **Pencarian**: Gunakan kolom pencarian di tabel untuk menemukan jadwal karyawan tertentu secara cepat.
 * **Approval Cuti**: Buka menu **Permissions**, pilih Pending Approval untuk menyetujui atau menolak permohonan cuti.
 * **Konfigurasi**: Buka menu **Management**, pilih Settings untuk mengubah jatah cuti tahunan perusahaan.
