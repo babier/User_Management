@@ -33,7 +33,7 @@ Aplikasi berbasis web untuk mengelola jadwal shift, pengajuan cuti, dan manajeme
 
 1.  **Clone Repository**:
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+    git clone https://github.com/babier/Employee_Management_System
     ```
 2.  **Install Dependencies**:
     ```bash
@@ -55,4 +55,4 @@ Aplikasi berbasis web untuk mengelola jadwal shift, pengajuan cuti, dan manajeme
 ---
 
 ## 👤 Kontak & Kontribusi
-Dibuat oleh **[Delistyo Sagita Wahono]**. Silakan hubungi via GitHub jika ada kendala atau ingin berkontribusi.
+Dibuat oleh **Delistyo Sagita Wahono**. Silakan hubungi via GitHub jika ada kendala atau ingin berkontribusi.
