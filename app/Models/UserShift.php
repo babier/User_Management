@@ -9,7 +9,6 @@ class UserShift extends Model
 {
     use HasFactory;
 
-    // Tambahkan baris ini untuk mengizinkan input data ke kolom berikut
     protected $fillable = [
         'user_id',
         'shift_id',
